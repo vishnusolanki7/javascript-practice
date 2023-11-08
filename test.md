@@ -1,6 +1,7 @@
 ### Array splice 
 
 ```typescript
+// array_slice.js
 // Definition and Usage
 // The splice() method adds and/or removes array elements.
 // The splice() method overwrites the original array.
