@@ -1,10 +1,8 @@
-# javascript-practice
-
-# Javascript <!-- omit in toc -->
+# Javascript Practice
 
 ## Documentation
 
 
-- [Array Slice](javascript-practice/blob/main/test.md)
+- [Array Slice](test.md)
 
 
